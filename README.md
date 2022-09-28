@@ -1,3 +1,9 @@
+Projeto realizado no curso de CSS: dispondo elementos com Flexbox e Grid pela Alura
+
+O intuido do projeto é conhecer e compreender os usos de Grid e melhorar nossas praticas usando o flexbox, trazendo responsividade aos nossos projetos. 
+
+
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
